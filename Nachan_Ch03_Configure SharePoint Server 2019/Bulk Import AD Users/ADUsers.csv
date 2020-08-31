@@ -1,0 +1,4 @@
+FirstName;LastName;SAM;OU;Password;MailDomain;Description
+TestUser1;TestUser1;CN=Users,DC=domain,DC=local;P@ssw0rd;domain.local
+TestUser2;TestUser2;CN=Users,DC=domain,DC=local;P@ssw0rd;domain.local
+TestUser3;TestUser3;CN=Users,DC=domain,DC=local;P@ssw0rd;domain.local
